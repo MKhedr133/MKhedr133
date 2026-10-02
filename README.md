@@ -34,11 +34,6 @@ Built and tested robotic systems combining robot arms, conveyors, grippers, elec
 
 `Robotics` `System Integration` `Computer Vision` `Automation`
 
-### Automated Camera Calibration
-Developed a motor-controlled camera calibration system using Python and an adjustable hardware setup.
-
-`Python` `Automation` `Computer Vision` `Mechatronics`
-
 > Most of my university and industry work is private, so public repositories focus on project documentation, methods and selected non-confidential examples.
 
 ## Currently
