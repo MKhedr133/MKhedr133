@@ -29,10 +29,10 @@ MSc Robotics thesis exploring how measurements from a baseline VR supermarket ta
 
 `Python` `MATLAB` `Data Analysis` `Adaptive Systems`
 
-### Robotic System Integration
-Built and tested robotic systems combining robot arms, conveyors, grippers, electrical cabinets and vision software.
+### Autonomous Radiation Detection Robot
+TU Delft healthcare robotics project with Reinier de Graaf. Built a ROS 2 mobile robot integrating radiation sensing, SLAM, localization, Nav2 and autonomous radiation source seeking.
 
-`Robotics` `System Integration` `Computer Vision` `Automation`
+`ROS 2` `SLAM` `Nav2` `Sensor Fusion` `Healthcare Robotics`
 
 > Most of my university and industry work is private, so public repositories focus on project documentation, methods and selected non-confidential examples.
 
